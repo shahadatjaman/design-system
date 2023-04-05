@@ -1,0 +1,8 @@
+**Check List**
+
+- Organized : Fixed Code Structure
+- No Specifity Issue
+- Atomic Design Principles
+- Easy to understand (comments, variables)
+- Fully Customizable / Themeable
+- Reuseable Accros Teams / Projects
